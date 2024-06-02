@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "2334",
+      "email": "matej@test.com",
+      "name": "Matej",
+      "password": "matej123"
+    },
+    {
+      "id": "eba2",
+      "email": "matej@test.com",
+      "password": "matej123",
+      "name": "Matej"
+    },
+    {
+      "id": "2379",
+      "email": "iva@test.com",
+      "password": "iva123",
+      "name": "Iva"
+    },
+    {
+      "id": "7814",
+      "email": "nikola@test.com",
+      "password": "nikola123",
+      "name": "Nikola"
+    },
+    {
+      "id": "cebd",
+      "email": "ivan@test.com",
+      "password": "ivan123",
+      "name": "Ivan"
+    },
+    {
+      "id": "4304",
+      "email": "marin@test.com",
+      "password": "marin123",
+      "name": "Marin"
+    },
+    {
+      "id": "1dbe",
+      "email": "ivana@test.com",
+      "password": "ivana123",
+      "name": "ivana"
+    },
+    {
+      "id": "87c1",
+      "email": "marko@test.com",
+      "password": "marko123",
+      "name": "Marko"
+    },
+    {
+      "id": "4fa0",
+      "email": "marina@test.com",
+      "password": "marina123",
+      "name": "marina"
+    },
+    {
+      "id": "e65e",
+      "email": "batman@test.com",
+      "password": "batman123",
+      "name": "batman"
+    }
+  ]
+}
